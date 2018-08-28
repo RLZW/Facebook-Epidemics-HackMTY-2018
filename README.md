@@ -25,11 +25,11 @@ Database design, how to develop a product in a short amount of time.
 Integrate Facebook-Prophet to be able to predict epidemics before they happen
 
 ## Built With
-*[facebook-login-api](https://developers.facebook.com/docs/facebook-login/) - Login API
-*[heroku](https://www.heroku.com/) - Host
-*[firebase](https://firebase.google.com/?hl=es-419) - Database
-*[android-studio](https://developer.android.com/studio/) - IDE Android
-*[flask](http://flask.pocoo.org/) - The web framework
-*[leaflet.js](https://leafletjs.com/) - Interactive Maps
+* [facebook-login-api](https://developers.facebook.com/docs/facebook-login/) - Login API
+* [heroku](https://www.heroku.com/) - Host
+* [firebase](https://firebase.google.com/?hl=es-419) - Database
+* [android-studio](https://developer.android.com/studio/) - IDE Android
+* [flask](http://flask.pocoo.org/) - The web framework
+* [leaflet.js](https://leafletjs.com/) - Interactive Maps
 ## Try it out
  fb-epidemics.herokuapp.com
