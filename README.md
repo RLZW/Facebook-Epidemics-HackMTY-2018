@@ -1,7 +1,7 @@
 # - Facebook Epidemics
 A project that aims to prevent Dengue epidemics using crowd sourced real time data through Facebook SDK devoloped in HackMTY-2018
 
-![alt text](https://raw.githubusercontent.com/RLZW/HackMty2018/master/Images/alert_example.jpg?token=AUSSMvtSvknflizckK-k_BpWwmhV45Qaks5bjpbwwA%3D%3D)
+![alt text](https://raw.githubusercontent.com/RLZW/Facebook-Epidemics-HackMTY-2018/master/Images/alert_example.jpg)
 
 ## Inspiration
 Dengue Is a vector borne disease that affects millions of people around the world, one of the mail challenges is that it takes between 30 and 45 days for a suspected case data to be available online. We believe this process can be optimized by allowing health organizations around the world to post suspected through our app, Facebook Epidemics
@@ -9,7 +9,7 @@ Dengue Is a vector borne disease that affects millions of people around the worl
 ## What it does
 Facebook epidemics connects health organizations in vulnerable areas through Facebook SDK, allowing them to post everytime they encounter a suspected case of Dengue, each case data Is anonimized and linked to a gps location. Researchers and health organizations around the world can access this information in real time to be able to react quickly in the brink or an epidemic.
 
-![alt text](https://raw.githubusercontent.com/RLZW/HackMty2018/master/Images/mapss.png?token=AUSSMmZbpE04R6zd1Sz4beTD2yUqHBrMks5bjpo-wA%3D%3D)
+![alt text](https://raw.githubusercontent.com/RLZW/Facebook-Epidemics-HackMTY-2018/master/Images/mapss.png)
 
 Using Facebook-Prophet, which allows time-series predictions, we can predict Dengue outbreaks and notify users living near vulnerable areas so they can take precautions to minimize their risk of contracting the disease.
 
