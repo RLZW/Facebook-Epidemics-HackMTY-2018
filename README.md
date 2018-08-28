@@ -9,6 +9,8 @@ Dengue Is a vector borne disease that affects millions of people around the worl
 ## What it does
 Facebook epidemics connects health organizations in vulnerable areas through Facebook SDK, allowing them to post everytime they encounter a suspected case of Dengue, each case data Is anonimized and linked to a gps location. Researchers and health organizations around the world can access this information in real time to be able to react quickly in the brink or an epidemic.
 
+![alt text](https://raw.githubusercontent.com/RLZW/HackMty2018/master/Images/mapss.png?token=AUSSMmZbpE04R6zd1Sz4beTD2yUqHBrMks5bjpo-wA%3D%3D)
+
 Using Facebook-Prophet, which allows time-series predictions, we can predict Dengue outbreaks and notify users living near vulnerable areas so they can take precautions to minimize their risk of contracting the disease.
 
 ## How we built it
