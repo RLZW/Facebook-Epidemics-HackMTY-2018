@@ -1,6 +1,8 @@
 # - Facebook Epidemics
 A project that aims to prevent Dengue epidemics using crowd sourced real time data through Facebook SDK devoloped in HackMTY-2018
 
+![alt text](https://raw.githubusercontent.com/RLZW/HackMty2018/master/Images/alert_example.jpg?token=AUSSMvtSvknflizckK-k_BpWwmhV45Qaks5bjpbwwA%3D%3D)
+
 ## Inspiration
 Dengue Is a vector borne disease that affects millions of people around the world, one of the mail challenges is that it takes between 30 and 45 days for a suspected case data to be available online. We believe this process can be optimized by allowing health organizations around the world to post suspected through our app, Facebook Epidemics
 
