@@ -28,8 +28,8 @@ Integrate Facebook-Prophet to be able to predict epidemics before they happen
 
 ## Built With
 * [facebook-login-api](https://developers.facebook.com/docs/facebook-login/) - Login API
-* [heroku](https://www.heroku.com/) - Host
-* [firebase](https://firebase.google.com/?hl=es-419) - Database
+* [heroku](https://www.heroku.com/) - Cloud Application Platform
+* [firebase ](https://firebase.google.com/?hl=es-419) - Cloud Storage
 * [android-studio](https://developer.android.com/studio/) - IDE Android
 * [flask](http://flask.pocoo.org/) - The web framework
 * [leaflet.js](https://leafletjs.com/) - Interactive Maps
