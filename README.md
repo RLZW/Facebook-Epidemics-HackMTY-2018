@@ -36,4 +36,4 @@ Integrate Facebook-Prophet to be able to predict epidemics before they happen
 * [flask](http://flask.pocoo.org/) - The web framework
 * [leaflet.js](https://leafletjs.com/) - Interactive Maps
 ## Try it out
- [Facebook Epidemics](fb-epidemics.herokuapp.com)
+ [Facebook Epidemics](https://fb-epidemics.herokuapp.com/)
